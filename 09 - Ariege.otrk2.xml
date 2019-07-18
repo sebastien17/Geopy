@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="3.0">
+<MapCalibration layers="true" layerLevel="0">
+<MapName><![CDATA[09 - Ariege]]></MapName>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="2.1">
+<MapCalibration layers="false" layerLevel="6">
+<MapName><![CDATA[09 - Ariege 06]]></MapName>
+<MapChunks xMax="1" yMax="1" datum="WGS84" projection="Mercator" img_height="512" img_width="512" file_name="09 - Ariege 06" />
+<MapDimensions height="256" width="256" />
+<MapBounds minLat="40.979898069620134" maxLat="45.089035564831036" minLon="0.0" maxLon="5.625" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="0.000000" lat="45.089036" />
+<CalibrationPoint corner="BR" lon="5.625000" lat="40.979898" />
+<CalibrationPoint corner="TR" lon="5.625000" lat="45.089036" />
+<CalibrationPoint corner="BL" lon="0.000000" lat="40.979898" />
+</CalibrationPoints>
+</MapCalibration>
+</OruxTracker>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="2.1">
+<MapCalibration layers="false" layerLevel="7">
+<MapName><![CDATA[09 - Ariege 07]]></MapName>
+<MapChunks xMax="1" yMax="1" datum="WGS84" projection="Mercator" img_height="512" img_width="512" file_name="09 - Ariege 07" />
+<MapDimensions height="512" width="256" />
+<MapBounds minLat="40.979898069620134" maxLat="45.089035564831036" minLon="0.0" maxLon="2.8125" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="0.000000" lat="45.089036" />
+<CalibrationPoint corner="BR" lon="2.812500" lat="40.979898" />
+<CalibrationPoint corner="TR" lon="2.812500" lat="45.089036" />
+<CalibrationPoint corner="BL" lon="0.000000" lat="40.979898" />
+</CalibrationPoints>
+</MapCalibration>
+</OruxTracker>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="2.1">
+<MapCalibration layers="false" layerLevel="8">
+<MapName><![CDATA[09 - Ariege 08]]></MapName>
+<MapChunks xMax="1" yMax="1" datum="WGS84" projection="Mercator" img_height="512" img_width="512" file_name="09 - Ariege 08" />
+<MapDimensions height="512" width="512" />
+<MapBounds minLat="42.032974332441405" maxLat="44.08758502824516" minLon="0.0" maxLon="2.8125" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="0.000000" lat="44.087585" />
+<CalibrationPoint corner="BR" lon="2.812500" lat="42.032974" />
+<CalibrationPoint corner="TR" lon="2.812500" lat="44.087585" />
+<CalibrationPoint corner="BL" lon="0.000000" lat="42.032974" />
+</CalibrationPoints>
+</MapCalibration>
+</OruxTracker>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="2.1">
+<MapCalibration layers="false" layerLevel="9">
+<MapName><![CDATA[09 - Ariege 09]]></MapName>
+<MapChunks xMax="2" yMax="1" datum="WGS84" projection="Mercator" img_height="512" img_width="512" file_name="09 - Ariege 09" />
+<MapDimensions height="512" width="768" />
+<MapBounds minLat="42.553080288955805" maxLat="43.58039085560783" minLon="0.703125" maxLon="2.8125" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="0.703125" lat="43.580391" />
+<CalibrationPoint corner="BR" lon="2.812500" lat="42.553080" />
+<CalibrationPoint corner="TR" lon="2.812500" lat="43.580391" />
+<CalibrationPoint corner="BL" lon="0.703125" lat="42.553080" />
+</CalibrationPoints>
+</MapCalibration>
+</OruxTracker>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="2.1">
+<MapCalibration layers="false" layerLevel="10">
+<MapName><![CDATA[09 - Ariege 10]]></MapName>
+<MapChunks xMax="3" yMax="2" datum="WGS84" projection="Mercator" img_height="512" img_width="512" file_name="09 - Ariege 10" />
+<MapDimensions height="1024" width="1280" />
+<MapBounds minLat="42.553080288955805" maxLat="43.58039085560783" minLon="0.703125" maxLon="2.4609375" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="0.703125" lat="43.580391" />
+<CalibrationPoint corner="BR" lon="2.460938" lat="42.553080" />
+<CalibrationPoint corner="TR" lon="2.460938" lat="43.580391" />
+<CalibrationPoint corner="BL" lon="0.703125" lat="42.553080" />
+</CalibrationPoints>
+</MapCalibration>
+</OruxTracker>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="2.1">
+<MapCalibration layers="false" layerLevel="11">
+<MapName><![CDATA[09 - Ariege 11]]></MapName>
+<MapChunks xMax="5" yMax="4" datum="WGS84" projection="Mercator" img_height="512" img_width="512" file_name="09 - Ariege 11" />
+<MapDimensions height="1792" width="2304" />
+<MapBounds minLat="42.553080288955805" maxLat="43.45291889355465" minLon="0.703125" maxLon="2.28515625" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="0.703125" lat="43.452919" />
+<CalibrationPoint corner="BR" lon="2.285156" lat="42.553080" />
+<CalibrationPoint corner="TR" lon="2.285156" lat="43.452919" />
+<CalibrationPoint corner="BL" lon="0.703125" lat="42.553080" />
+</CalibrationPoints>
+</MapCalibration>
+</OruxTracker>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="2.1">
+<MapCalibration layers="false" layerLevel="12">
+<MapName><![CDATA[09 - Ariege 12]]></MapName>
+<MapChunks xMax="8" yMax="7" datum="WGS84" projection="Mercator" img_height="512" img_width="512" file_name="09 - Ariege 12" />
+<MapDimensions height="3328" width="4096" />
+<MapBounds minLat="42.553080288955805" maxLat="43.3890819391175" minLon="0.791015625" maxLon="2.197265625" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="0.791016" lat="43.389082" />
+<CalibrationPoint corner="BR" lon="2.197266" lat="42.553080" />
+<CalibrationPoint corner="TR" lon="2.197266" lat="43.389082" />
+<CalibrationPoint corner="BL" lon="0.791016" lat="42.553080" />
+</CalibrationPoints>
+</MapCalibration>
+</OruxTracker>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="2.1">
+<MapCalibration layers="false" layerLevel="13">
+<MapName><![CDATA[09 - Ariege 13]]></MapName>
+<MapChunks xMax="16" yMax="13" datum="WGS84" projection="Mercator" img_height="512" img_width="512" file_name="09 - Ariege 13" />
+<MapDimensions height="6400" width="8192" />
+<MapBounds minLat="42.553080288955805" maxLat="43.35713822211053" minLon="0.791015625" maxLon="2.197265625" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="0.791016" lat="43.357138" />
+<CalibrationPoint corner="BR" lon="2.197266" lat="42.553080" />
+<CalibrationPoint corner="TR" lon="2.197266" lat="43.357138" />
+<CalibrationPoint corner="BL" lon="0.791016" lat="42.553080" />
+</CalibrationPoints>
+</MapCalibration>
+</OruxTracker>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="2.1">
+<MapCalibration layers="false" layerLevel="15">
+<MapName><![CDATA[09 - Ariege 15]]></MapName>
+<MapChunks xMax="64" yMax="48" datum="WGS84" projection="Mercator" img_height="512" img_width="512" file_name="09 - Ariege 15" />
+<MapDimensions height="24576" width="32512" />
+<MapBounds minLat="42.56117285531808" maxLat="43.333169392817325" minLon="0.802001953125" maxLon="2.197265625" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="0.802002" lat="43.333169" />
+<CalibrationPoint corner="BR" lon="2.197266" lat="42.561173" />
+<CalibrationPoint corner="TR" lon="2.197266" lat="43.333169" />
+<CalibrationPoint corner="BL" lon="0.802002" lat="42.561173" />
+</CalibrationPoints>
+</MapCalibration>
+</OruxTracker>
+</MapCalibration>
+</OruxTracker>

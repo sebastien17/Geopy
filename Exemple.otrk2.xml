@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration"
+ versionCode="3.0">
+	<MapCalibration layers="true" layerLevel="0">
+		<MapName><![CDATA[Exemple]]></MapName>
+		<OruxTracker xmlns="http://oruxtracker.com/app/res/calibration" versionCode="2.1">
+			<MapCalibration layers="false" layerLevel="15">
+				<MapName><![CDATA[exemple 15]]></MapName>
+				<MapChunks xMax="5" yMax="3" datum="WGS84" projection="Mercator" img_height="512" img_width="512" file_name="Exemple 15" />
+				<MapDimensions height="1536" width="2560" />
+				<MapBounds minLat="43.6042618680962" maxLat="43.62812341212462" minLon="1.538085937499958" maxLon="1.5930175781249816" />
+				<CalibrationPoints>
+					<CalibrationPoint corner="TL" lon="1.538085937499958" lat="43.62812341212462" />
+					<CalibrationPoint corner="BR" lon="1.5930175781249816" lat="43.6042618680962" />
+					<CalibrationPoint corner="TR" lon="1.5930175781249816" lat="43.62812341212462" />
+					<CalibrationPoint corner="BL" lon="1.538085937499958" lat="43.6042618680962" />
+				</CalibrationPoints>
+			</MapCalibration>
+		</OruxTracker>
+	</MapCalibration>
+</OruxTracker>
